@@ -1,4 +1,3 @@
-#print_status(game_set
 output_transfer = {0: ' ',
                    1: 'O',
                    2: 'X',}
